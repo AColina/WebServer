@@ -1,0 +1,8 @@
+com\acolina\server\config\WebSocketConfig.class
+com\acolina\server\config\WebConfig.class
+com\acolina\server\dto\Message.class
+com\acolina\server\Application.class
+com\acolina\server\config\WebAppInitializer.class
+com\acolina\server\dto\OutputMessage.class
+com\acolina\server\controller\ChatController.class
+com\acolina\server\config\AppConfig.class
